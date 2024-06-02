@@ -1,7 +1,7 @@
 <div align="center">
   
 # Mopper
-<img src="https://bigrat.monster/media/bigrat.jxl" alt="i dont have logo yet" width="25%" />
+<img src="https://media.discordapp.net/attachments/901379389990764555/1246879961713737738/Screenshot_20240603_003207_Instagram.jpg?ex=665dfef4&is=665cad74&hm=c292c97c267410bdd82fa5dffbb31a94f21637a3fbeeb12d22886cbae5a73fb0&" alt="wtf" width="25%" />
 <br> <br>
 
 # [ info ]
