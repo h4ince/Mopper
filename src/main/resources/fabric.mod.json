@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "mopped",
+  "version": "${version}",
+  "name": "Mopped",
+  "description": "A Fabric mod for improving vanilla gameplay!",
+  "authors": [
+    "Nortsye"
+  ],
+  "contact": {
+    "website": "https://github.com/h4ince",
+    "repo": "https://github.com/h4ince/Mopped"
+  },
+  "license": "Apache-2.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.nortw.mopped.client.MoppedClient"
+    ],
+    "main": [
+      "me.nortw.mopped.Mopped"
+    ]
+  },
+  "mixins": [
+    "mopped.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
