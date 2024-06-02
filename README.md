@@ -56,7 +56,7 @@ When i was playing vanilla survival minecraft, i notice so much things feels so 
 ## [ DISCLAIMER ]
 Yes i want to make this mod to be as vanilla as possible. But i want to add a lil bit blatant thingy for my own fun if u want to remove it just do it by yourself.
 
-If you have some ideas to improve this mod let me know on my <a href="discordapp.com/users/715114698953064529/">discord</a>!
+If you have some ideas to improve this mod let me know on my <a href="https://discordapp.com/users/715114698953064529/">discord</a>!
 </div>
 
 
